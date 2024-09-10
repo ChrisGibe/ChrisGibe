@@ -2,7 +2,8 @@
 
 ### Hello there 👋
 
-Hi, I'm [Christophe](www.gibelli-christophe.com), i'm a front end developer ! 
+Hi, I'm Christophe, front end developer.
+I currently work at [Dusens Group](https://dusens.group/en/). 
 I build a lot of website and application with wordpress / React / GatsbyJS .... . 
 
 🌱 I’m currently learning more on [GatsbyJS](https://www.gatsbyjs.org/), 
