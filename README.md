@@ -3,10 +3,8 @@
 ### Hello there 👋
 
 Hi, I'm Christophe, front end developer.
-I currently work at [Dusens Group](https://dusens.group/en/). 
-I build a lot of website and application with wordpress / React / GatsbyJS .... . 
+I currently work at [Dusens Group](https://dusens.group/en/).
 
-🌱 I’m currently learning more on [GatsbyJS](https://www.gatsbyjs.org/), 
 <!--
 **ChrisGibe/ChrisGibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
